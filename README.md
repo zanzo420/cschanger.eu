@@ -1,22 +1,6 @@
 # cschanger.eu
 
 
-## PL:
-
-Z dniem 21.05.2018 stwierdziłem, że nie ma sensu prowadzenie dalej projektu który spełnia jedynie wymogi garstki osób,
-gdzie jakiś czas temu były to liczby między 200-500 osobami online w jednym momencie, a przyrost użytkowników każdego
-miesiąca przekraczał 150% poprzedniego.
-
-Projekt CSChanger.eu został zawieszony, ale wszystkie pliki są dostępne za darmo do pobrania z tej strony GITHUB,
-baza danych zostanie skasowana, co oznacza że wasze dane są bezpieczne i nikt nie uzyska do nich dostępu.
-
-Mamy nadzieję, na przyszłą współpracę z wami - graczami którzy nas wspierali przez prawie rok czasu działania serwisu.
-
-W razie pytań zawsze możecie wejść na naszego Disocrda, a tam już niebawem będzie więcej informacji dotyczących projektu,
-nad którym powoli rozpoczynam swoje prace. Mam nadzieję, że będzie to dobry czas... https://discord.gg/jcP3Byt
-
-
-
 ## EN:
 
 As of 21/05/2018 I stated that there is no sense in running a project that meets only the requirements of a handful of people,
@@ -30,6 +14,22 @@ We hope for future cooperation with you - players who supported us for almost a 
 
 If you have any questions, you can always come to our Disocrd, and soon there will be more information about the project,
 I am slowly starting my work. I hope it will be a good time... https://discord.gg/jcP3Byt
+
+
+
+## PL:
+
+Z dniem 21.05.2018 stwierdziłem, że nie ma sensu prowadzenie dalej projektu który spełnia jedynie wymogi garstki osób,
+gdzie jakiś czas temu były to liczby między 200-500 osobami online w jednym momencie, a przyrost użytkowników każdego
+miesiąca przekraczał 150% poprzedniego.
+
+Projekt CSChanger.eu został zawieszony, ale wszystkie pliki są dostępne za darmo do pobrania z tej strony GITHUB,
+baza danych zostanie skasowana, co oznacza że wasze dane są bezpieczne i nikt nie uzyska do nich dostępu.
+
+Mamy nadzieję, na przyszłą współpracę z wami - graczami którzy nas wspierali przez prawie rok czasu działania serwisu.
+
+W razie pytań zawsze możecie wejść na naszego Disocrda, a tam już niebawem będzie więcej informacji dotyczących projektu,
+nad którym powoli rozpoczynam swoje prace. Mam nadzieję, że będzie to dobry czas... https://discord.gg/jcP3Byt
 
 
 
