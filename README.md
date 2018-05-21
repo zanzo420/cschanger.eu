@@ -1,8 +1,7 @@
 # cschanger.eu
-CSChanger.eu
 
 
-PL:
+## PL:
 
 Z dniem 21.05.2018 stwierdziłem, że nie ma sensu prowadzenie dalej projektu który spełnia jedynie wymogi garstki osób,
 gdzie jakiś czas temu były to liczby między 200-500 osobami online w jednym momencie, a przyrost użytkowników każdego
@@ -18,7 +17,7 @@ nad którym powoli rozpoczynam swoje prace. Mam nadzieję, że będzie to dobry 
 
 
 
-EN:
+## EN:
 
 As of 21/05/2018 I stated that there is no sense in running a project that meets only the requirements of a handful of people,
 where some time ago there were numbers between 200-500 people online in one moment, and the growth of users each
@@ -34,7 +33,7 @@ I am slowly starting my work. I hope it will be a good time... https://discord.g
 
 
 
-TR:
+## TR:
 
 21/05/2018 tarihi itibariyle, sadece bir avuç insanın gereksinimlerini karşılayan bir projeyi yürütmenin hiçbir anlamı olmadığını,
 Bir süre önce, bir an önce 200-500 kişi arasında bir sayı ve kullanıcıların her birinin büyümesi vardı.
