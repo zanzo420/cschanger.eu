@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="login" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="haslo" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="plan" Type="System.String" Scope="User">
+      <Value Profile="(Default)">free</Value>
+    </Setting>
+    <Setting Name="koniecpremium" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xx.xx.xxxx @ xx:xx</Value>
+    </Setting>
+    <Setting Name="loggedout" Type="System.String" Scope="User">
+      <Value Profile="(Default)">n</Value>
+    </Setting>
+    <Setting Name="steamid" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="tejksub" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="filename" Type="System.String" Scope="User">
+      <Value Profile="(Default)">cschanger_core_x64.dll</Value>
+    </Setting>
+    <Setting Name="injectpath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="version" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.04.01</Value>
+    </Setting>
+    <Setting Name="jezyk" Type="System.String" Scope="User">
+      <Value Profile="(Default)">english</Value>
+    </Setting>
+    <Setting Name="filename32bit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">cschanger_core_x86.dll</Value>
+    </Setting>
+    <Setting Name="banlog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
