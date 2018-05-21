@@ -1,0 +1,11 @@
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\bin\Release\Wild Games.exe.config
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\bin\Release\Wild Games.exe
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\bin\Release\Wild Games.pdb
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Release\Wild_Games.CSChanger.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Release\Wild_Games.login.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Release\Wild_Games.Resources.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Release\Wild_Games.Outdated.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Release\Wild_Games.updates.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Release\Wild Games.vbproj.GenerateResource.Cache
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Release\Wild Games.exe
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Release\Wild Games.pdb

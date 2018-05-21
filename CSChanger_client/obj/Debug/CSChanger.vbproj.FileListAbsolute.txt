@@ -1,0 +1,109 @@
+C:\Users\Kamil\Desktop\changer_client\CSChanger.exe.config
+C:\Users\Kamil\Desktop\CSChanger_release_new\CSChanger.exe.config
+C:\Users\Kamil\Desktop\CSChanger_release_new\CSChanger.exe
+C:\Users\Kamil\Desktop\CSChanger_release_new\Wild Games.exe.config
+C:\Users\Kamil\Desktop\CSChanger_release_new2\CSChanger.exe.config
+C:\Users\Kamil\Desktop\CSChanger_release_new2\Wild Games.exe.config
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\CSChanger.vbprojResolveAssemblyReference.cache
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.CSChanger.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.login.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.Resources.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.Outdated.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.updates.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\CSChanger.vbproj.GenerateResource.Cache
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\CSChanger.exe
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.Report_bug.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.blad.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.sukces.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.Dlaczego_Premium.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\CSChanger.exe.config
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\CSChanger.exe
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\obj\Debug\Wild_Games.BetaZamknieta.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\obj\Debug\Wild_Games.blad.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\obj\Debug\Wild_Games.CSChanger.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\obj\Debug\Wild_Games.login.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\obj\Debug\Wild_Games.Resources.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\obj\Debug\Wild_Games.Outdated.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\obj\Debug\Wild_Games.DlaczegoPremium.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\obj\Debug\Wild_Games.prepare.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\obj\Debug\Wild_Games.Report_bug.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\obj\Debug\Wild_Games.Spolszczenie.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\obj\Debug\Wild_Games.sukces.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\obj\Debug\Wild_Games.updates.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\obj\Debug\CSChanger.vbproj.GenerateResource.Cache
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\obj\Debug\CSChanger.exe
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger\Wild Games\obj\Debug\CSChanger.vbprojResolveAssemblyReference.cache
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger — kopia\Wild Games\obj\Debug\CSChanger.exe
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger — kopia\Wild Games\obj\Debug\CSChanger.vbprojResolveAssemblyReference.cache
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger — kopia\Wild Games\obj\Debug\Wild_Games.BetaZamknieta.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger — kopia\Wild Games\obj\Debug\Wild_Games.blad.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger — kopia\Wild Games\obj\Debug\Wild_Games.CSChanger.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger — kopia\Wild Games\obj\Debug\Wild_Games.login.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger — kopia\Wild Games\obj\Debug\Wild_Games.Resources.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger — kopia\Wild Games\obj\Debug\Wild_Games.Outdated.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger — kopia\Wild Games\obj\Debug\Wild_Games.DlaczegoPremium.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger — kopia\Wild Games\obj\Debug\Wild_Games.prepare.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger — kopia\Wild Games\obj\Debug\Wild_Games.Report_bug.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger — kopia\Wild Games\obj\Debug\Wild_Games.Spolszczenie.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger — kopia\Wild Games\obj\Debug\Wild_Games.sukces.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger — kopia\Wild Games\obj\Debug\Wild_Games.updates.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger — kopia\Wild Games\obj\Debug\CSChanger.vbproj.GenerateResource.Cache
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger — kopia\Wild Games\obj\Debug\Wild_Games.fac.resources
+C:\Users\Kamil\Desktop\CSChanger_release\CSChanger.exe.config
+C:\Users\Kamil\Desktop\CSChanger_release\CSChanger.exe
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\Wild_Games.BetaZamknieta.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\Wild_Games.blad.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\Wild_Games.CSChanger.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\Wild_Games.fac.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\Wild_Games.instaluj.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\Wild_Games.login.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\Wild_Games.Resources.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\Wild_Games.Outdated.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\Wild_Games.DlaczegoPremium.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\Wild_Games.prepare.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\Wild_Games.Report_bug.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\Wild_Games.Spolszczenie.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\Wild_Games.sukces.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\Wild_Games.updates.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\CSChanger.vbproj.GenerateResource.Cache
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\CSChanger.exe
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\CSChanger beta\Wild Games\obj\Debug\CSChanger.vbprojResolveAssemblyReference.cache
+C:\Desktop\CSChanger_release\CSChanger.exe.config
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\CSChanger.exe
+C:\Desktop\CSChanger_release\CSChanger.exe
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\CSChanger.vbprojResolveAssemblyReference.cache
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\Wild_Games.BetaZamknieta.resources
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\Wild_Games.blad.resources
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\Wild_Games.CSChanger.resources
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\Wild_Games.fac.resources
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\Wild_Games.instaluj.resources
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\Wild_Games.login.resources
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\Wild_Games.Resources.resources
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\Wild_Games.Outdated.resources
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\Wild_Games.DlaczegoPremium.resources
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\Wild_Games.prepare.resources
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\Wild_Games.Report_bug.resources
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\Wild_Games.Spolszczenie.resources
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\Wild_Games.sukces.resources
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\Wild_Games.updates.resources
+C:\xdddddddddd\CSChanger beta — kopia\Wild Games\obj\Debug\CSChanger.vbproj.GenerateResource.Cache
+C:\Users\bialy\Desktop\CSChanger.exe.config
+C:\Users\bialy\Desktop\csc_release\CSChanger.exe.config
+C:\Users\bialy\Desktop\csc_release\CSChanger.exe
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\CSChanger.vbprojResolveAssemblyReference.cache
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\Wild_Games.BetaZamknieta.resources
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\Wild_Games.blad.resources
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\Wild_Games.CSChanger.resources
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\Wild_Games.fac.resources
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\Wild_Games.instaluj.resources
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\Wild_Games.login.resources
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\Wild_Games.Resources.resources
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\Wild_Games.Outdated.resources
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\Wild_Games.DlaczegoPremium.resources
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\Wild_Games.prepare.resources
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\Wild_Games.Report_bug.resources
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\Wild_Games.Spolszczenie.resources
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\Wild_Games.sukces.resources
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\Wild_Games.updates.resources
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\CSChanger.vbproj.GenerateResource.Cache
+C:\xdddddddddd\cschanger_wersja_normalna\Wild Games\obj\Debug\CSChanger.exe

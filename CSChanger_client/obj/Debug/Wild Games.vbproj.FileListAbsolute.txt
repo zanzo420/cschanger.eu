@@ -1,0 +1,28 @@
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\bin\Debug\Wild Games.exe.config
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\bin\Debug\Wild Games.exe
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\bin\Debug\Wild Games.pdb
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\bin\Debug\Wild Games.xml
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\bin\Debug\CSChanger.exe.config
+C:\Users\Kamil\Desktop\changer_client\Wild Games.exe.config
+C:\Users\Kamil\Desktop\changer_client\Wild Games.exe
+C:\Users\Kamil\Desktop\changer_client\Wild Games.pdb
+C:\Users\Kamil\Desktop\changer_client\1\Wild Games.exe.config
+C:\Users\Kamil\Desktop\changer_client\1\Wild Games.exe
+C:\Users\Kamil\Desktop\changer_client\1\Wild Games.pdb
+C:\Users\Kamil\Desktop\CSChanger_release_new2\Wild Games.exe.config
+C:\Users\Kamil\Desktop\CSChanger_release_new2\Wild Games.exe
+C:\Users\Kamil\Desktop\CSChanger_release\Wild Games.exe.config
+C:\Users\Kamil\Desktop\CSChanger_release\Wild Games.exe
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild Games.vbprojResolveAssemblyReference.cache
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.CSChanger.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.login.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.Resources.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.Outdated.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.updates.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild Games.vbproj.GenerateResource.Cache
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild Games.exe
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.Report_bug.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.blad.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\Wild_Games.sukces.resources
+C:\Users\Kamil\Desktop\CSChanger_release\CSChanger.exe.config
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Wild Games\Wild Games\obj\Debug\CSChanger.exe
