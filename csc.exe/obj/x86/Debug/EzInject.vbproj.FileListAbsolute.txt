@@ -1,0 +1,11 @@
+C:\Users\bialy\Desktop\DLL-Injector-In-VB.NET-master\obj\x86\Debug\EzInject.vbprojResolveAssemblyReference.cache
+C:\Users\bialy\Desktop\DLL-Injector-In-VB.NET-master\obj\x86\Debug\EzInject.Form1.resources
+C:\Users\bialy\Desktop\DLL-Injector-In-VB.NET-master\obj\x86\Debug\EzInject.Resources.resources
+C:\Users\bialy\Desktop\DLL-Injector-In-VB.NET-master\obj\x86\Debug\EzInject.vbproj.GenerateResource.Cache
+C:\Users\bialy\Desktop\DLL-Injector-In-VB.NET-master\bin\Debug\CSChanger.exe.config
+C:\Users\bialy\Desktop\DLL-Injector-In-VB.NET-master\bin\Debug\CSChanger.exe
+C:\Users\bialy\Desktop\DLL-Injector-In-VB.NET-master\bin\Debug\CSChanger.pdb
+C:\Users\bialy\Desktop\DLL-Injector-In-VB.NET-master\bin\Debug\CSChanger.xml
+C:\Users\bialy\Desktop\DLL-Injector-In-VB.NET-master\obj\x86\Debug\CSChanger.exe
+C:\Users\bialy\Desktop\DLL-Injector-In-VB.NET-master\obj\x86\Debug\CSChanger.xml
+C:\Users\bialy\Desktop\DLL-Injector-In-VB.NET-master\obj\x86\Debug\CSChanger.pdb
