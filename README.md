@@ -46,3 +46,9 @@ Sizinle gelecekteki işbirliğini umuyoruz - neredeyse bir yıllık hizmet için
 
 Herhangi bir sorunuz varsa, Disocrd’imize her zaman ulaşabilirsiniz, ve yakında proje hakkında daha fazla bilgi olacak,
 Çalışmaya yavaş yavaş başlıyorum. Umarım iyi bir zaman olur ... https://discord.gg/jcP3Byt
+
+
+____________________________________________________________________________________________________
+
+![cschanger client](https://i.imgur.com/l3edgRg.png)
+![cschanger website](https://i.imgur.com/uRiOTd0.png)
