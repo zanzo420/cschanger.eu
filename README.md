@@ -1,5 +1,7 @@
 # cschanger.eu
 
+###more information about the project at the bottom
+
 
 ## EN: 
 
@@ -52,5 +54,11 @@ ________________________________________________________________________________
 
 
 #### To display the menu in the game, we used the free open-source project [nskinz](https://github.com/namazso/nSkinz)
+
+##### the site is ready to upload a project that only requires changing the base address in the mysql.class.php file
+##### the application can be compiled using any version of visual basic, but I recommend using the 2015 version.
+
+[Donations](http://paypal.me/tejki)
+
 ![cschanger website](https://i.imgur.com/uRiOTd0.png)
 ![cschanger client](https://i.imgur.com/l3edgRg.png)
