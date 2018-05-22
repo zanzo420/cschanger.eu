@@ -50,5 +50,7 @@ Herhangi bir sorunuz varsa, Disocrd’imize her zaman ulaşabilirsiniz, ve yakı
 
 ____________________________________________________________________________________________________
 
-![cschanger client](https://i.imgur.com/l3edgRg.png)
+
+#### To display the menu in the game, we used the free open-source project [nskinz](https://github.com/namazso/nSkinz)
 ![cschanger website](https://i.imgur.com/uRiOTd0.png)
+![cschanger client](https://i.imgur.com/l3edgRg.png)
