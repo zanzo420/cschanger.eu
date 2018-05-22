@@ -1,6 +1,6 @@
 # cschanger.eu
 
-###more information about the project at the bottom
+### more information about the project at the bottom
 
 
 ## EN: 
