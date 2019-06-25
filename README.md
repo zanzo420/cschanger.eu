@@ -1,6 +1,6 @@
 # cschanger.eu
 
-### more information about the project at the bottom
+[![Discord](https://img.shields.io/discord/370909694056726528.svg?style=flat&logo=discord)](https://discord.gg/8wT3GEQ)
 
 
 ## EN: 
